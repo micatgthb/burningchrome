@@ -1,0 +1,989 @@
+{
+  "title": "The Burning Chrome Symphony Dreamscape",
+  "artist": "Sonic Flames",
+  "intro": {
+    "de": {
+      "heading": "Ein Traum wird Musik",
+      "paragraphs": [
+        "1975 hörte ich bei meinem Cousin zum ersten Mal *Tarkus* von Emerson, Lake & Palmer. Mich faszinierte die Idee, mit den Songs eines Albums eine zusammenhängende Geschichte zu erzählen. Damals nahm ich mir vor: So etwas möchte ich auch einmal machen.",
+        "Fünfzig Jahre später wurde aus diesem Wunsch ein veröffentlichtes Album: *The Burning Chrome Symphony Dreamscape*.",
+        "Den Ausgangspunkt bildet William Gibsons Kurzgeschichte *Burning Chrome*. Ihre Welt aus Technik, Sehnsucht und gefährlichen Träumen wurde zur Grundlage für fünfzehn Songs. Mich interessierte dabei nicht nur der große Coup von Bobby Quine und Automatic Jack. Ebenso wichtig waren mir Rikki, ihre Wünsche und das, was zwischen diesen Menschen unausgesprochen bleibt.",
+        "Musikalisch begann das Projekt mit einer Suche. Während wir mit meiner damaligen Band Kick the Wall zunehmend Coverversionen spielten, wollte ich wieder etwas Eigenes schaffen. Mit *Russian Stuff* entstand das erste Stück. Zunächst dachte ich noch darüber nach, welcher Stil das gesamte Album prägen sollte. Doch mit jedem neuen Song kamen andere Ideen hinzu. Irgendwann fragte ich mich: Warum muss eine Geschichte eigentlich durchgehend im selben Genre erzählt werden?",
+        "So bekam jedes Kapitel seinen eigenen musikalischen Ausdruck. Meine Lieblingsmusik gab mir Anstöße; in der gemeinsamen Arbeit entwickelten die Stücke dann ihr eigenes Leben. Aus vorbereiteten Spuren wurden eingespielte Arrangements, aus Entwürfen manchmal endgültige Aufnahmen. Nicht alles, was wir behalten haben, war von Anfang an als fertige Fassung gedacht.",
+        "Dieses Buch begleitet die Reise durch das Album. Bilder und Texte öffnen einen weiteren Zugang zu den Songs; über die QR-Codes führt der Weg direkt zur Musik auf der begleitenden Webseite.",
+        "Was 1975 als Wunsch begann, lässt sich heute hören. Und ich höre selbst noch immer gern zu."
+      ]
+    },
+    "en": {
+      "heading": "A Dream Becomes Music",
+      "paragraphs": [
+        "In 1975, at my cousin’s house, I heard *Tarkus* by Emerson, Lake & Palmer for the first time. I was fascinated by the idea of telling a connected story through the songs on an album. I made myself a promise: one day, I wanted to do something like that too.",
+        "Fifty years later, that wish became a released album: *The Burning Chrome Symphony Dreamscape*.",
+        "William Gibson’s short story *Burning Chrome* provided the starting point. Its world of technology, longing and dangerous dreams became the foundation for fifteen songs. I was interested in more than Bobby Quine and Automatic Jack’s big score. Rikki, her ambitions and everything left unspoken between these people mattered just as much to me.",
+        "Musically, the project began as a search. As my band at the time, Kick the Wall, increasingly focused on cover versions, I felt the need to create something of my own again. *Russian Stuff* was the first piece to emerge. At first, I was still trying to decide which style should shape the whole album. But each new song brought different ideas. Eventually, I asked myself: why should a story have to stay within a single genre?",
+        "Each chapter found its own musical expression. The music I loved offered starting points; working together gave the songs lives of their own. Guide tracks became fully played arrangements, and sometimes an early sketch became the final recording. Not everything we kept had originally been intended as a finished take.",
+        "This book accompanies the journey through the album. Its images and texts offer another way into the songs, while QR codes lead directly to the music on the companion website.",
+        "What began as a wish in 1975 can now be heard. And I still enjoy listening myself."
+      ]
+    }
+  },
+  "literary": {
+    "de": {
+      "heading": "Ein Coup und die Träume dahinter",
+      "paragraphs": [
+        "In William Gibsons *Burning Chrome* planen Bobby Quine und Automatic Jack einen Einbruch in ein fremdes Computersystem. Bobby beherrscht die Software, Jack kümmert sich um die Hardware. Ein russisches Angriffsprogramm gibt ihnen die Möglichkeit, ein Ziel anzugehen, das bisher außer Reichweite lag: Chrome, die Betreiberin des House of Blue Lights.",
+        "Doch die Geschichte lebt ebenso von dem, was sich nicht programmieren lässt. Bobby hofft auf den großen Durchbruch. Jack erzählt und beobachtet, während seine eigenen Gefühle für Rikki zunehmend zwischen den Zeilen sichtbar werden. Rikki wiederum hat einen Traum, der über das Leben der beiden Männer hinausführt. Sie will selbst bestimmen, wer sie werden kann.",
+        "Der Einbruch verbindet ihre Hoffnungen für einen Moment. Er erfüllt sie nicht auf dieselbe Weise. Gerade darin liegt für mich die Kraft dieser Geschichte: Ein technischer Erfolg kann einen persönlichen Verlust nicht aufheben.",
+        "Das Album nähert sich dieser Spannung in fünfzehn musikalischen Kapiteln. Einige richten den Blick auf Figuren und Begegnungen, andere folgen dem Einbruch in den Cyberspace. Die wechselnden musikalischen Formen geben den unterschiedlichen Situationen und Stimmungen Raum.",
+        "Die folgenden Texte begleiten diese musikalische Lesart. Sie erzählen von den Motiven der Geschichte und von der Entstehung der Songs. Wer Gibsons Erzählung noch entdecken möchte, sollte wissen: Dabei werden auch ihr Verlauf und ihr Ende angesprochen."
+      ]
+    },
+    "en": {
+      "heading": "A Heist and the Dreams Behind It",
+      "paragraphs": [
+        "In William Gibson’s *Burning Chrome*, Bobby Quine and Automatic Jack plan to break into someone else’s computer system. Bobby handles the software; Jack takes care of the hardware. A Russian attack program gives them a chance to pursue a target previously beyond their reach: Chrome, who runs the House of Blue Lights.",
+        "But the story also turns on things that cannot be programmed. Bobby hopes for his big break. Jack narrates and observes, while his own feelings for Rikki increasingly emerge between the lines. Rikki, meanwhile, has a dream that reaches beyond the two men’s lives. She wants a say in who she might become.",
+        "For a moment, the heist brings their hopes together. It does not fulfil them in the same way. For me, this is where the story’s power lies: a technical success cannot undo a personal loss.",
+        "The album approaches this tension through fifteen musical chapters. Some focus on characters and encounters; others follow the break-in through cyberspace. The changing musical forms give each situation and mood room to develop.",
+        "The texts that follow accompany this musical reading. They explore the story’s themes and the making of the songs. Readers who have yet to discover Gibson’s story should be aware that they also discuss its events and ending."
+      ]
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "slug": "burning-chrome",
+      "title": "Burning Chrome",
+      "cover": "covers/01.jpg",
+      "audio": "audio/01.mp3",
+      "duration": "2:48",
+      "sections": {
+        "de": [
+          {
+            "heading": "Ein Versprechen im blauen Licht",
+            "paragraphs": [
+              "Zwei Männer, ein fremdes System und die Aussicht, dass sich mit einem einzigen Coup alles ändern könnte. *Burning Chrome* öffnet die Tür zur Welt des Albums: eine Welt, in der technische Möglichkeiten und persönliche Wünsche eng miteinander verbunden sind.",
+              "Bobby Quine und Automatic Jack besitzen unterschiedliche Fähigkeiten, aber sie teilen die Hoffnung auf einen entscheidenden Erfolg. Rikki bringt eine weitere Zukunftsvorstellung in ihr Leben. Was die beiden Männer in ihr sehen, deckt sich nicht unbedingt mit dem, was sie selbst erreichen möchte.",
+              "Als Auftakt steht der Titelsong für den größeren Zusammenhang. Die Reise beginnt mit einem Versprechen: irgendwo hinter den Grenzen des bisherigen Lebens wartet etwas anderes. Ob dieses Versprechen für alle dasselbe bedeutet, wird erst im Verlauf des Albums deutlich."
+            ]
+          },
+          {
+            "heading": "Wie der Song entstand",
+            "paragraphs": [
+              "Bei *Burning Chrome* hatte ich die L.A.-Hairbands der Achtzigerjahre im Kopf – die Hardrock- und Glam-Metal-Szene rund um den Sunset Strip in Los Angeles. Ich wollte einen Song schreiben, der mir selbst so gut gefällt, dass ich ihn auch Jahre später noch gern höre.",
+              "Die Gitarren nahm ich zunächst als Entwurf auf. Eigentlich wollte ich sie später noch einmal einspielen. Mir war bewusst, dass dieses Album über mehrere Jahre entstehen würde und sich dabei sowohl der Stil als auch die Aufnahmen verändern könnten. Einige dieser frühen Gitarrenspuren blieben schließlich erhalten. Was als Prototyp gedacht war, hatte bereits etwas, das ich behalten wollte.",
+              "*Russian Stuff* war das erste Stück des Projekts; *Burning Chrome* folgte als zweite Songveröffentlichung. Auf dem Album steht es nun am Anfang. Für mich funktioniert es hier als Einladung in die gesamte Geschichte."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover verbindet die beiden Männer am Bildschirm mit einer leuchtenden geometrischen Struktur und dem Bild Rikkis. Technik und menschliche Sehnsucht stehen damit schon im ersten Motiv nebeneinander. Das blaue Licht zieht den Blick in den digitalen Raum; Rikkis Gesicht hält die persönliche Ebene der Geschichte gegenwärtig."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "A Promise in Blue Light",
+            "paragraphs": [
+              "Two men, someone else’s system and the possibility that a single score could change everything. *Burning Chrome* opens the door to the album’s world, where technological possibilities and personal desires are closely intertwined.",
+              "Bobby Quine and Automatic Jack have different skills, but they share the hope of a decisive breakthrough. Rikki brings another vision of the future into their lives. What the two men see in her does not necessarily match what she wants to achieve herself.",
+              "As the opening track, the title song introduces the wider picture. The journey begins with a promise: somewhere beyond the limits of their present lives, something different awaits. Whether that promise means the same thing to everyone only becomes clear as the album unfolds."
+            ]
+          },
+          {
+            "heading": "How the Song Came About",
+            "paragraphs": [
+              "For *Burning Chrome*, I had the L.A. hair bands of the eighties in mind — the hard rock and glam metal scene around the Sunset Strip in Los Angeles. I wanted to write a song I would enjoy enough to keep listening to it years later.",
+              "I initially recorded the guitars as a sketch, intending to play them again later. I knew the album would take several years to make, and that both its style and the recordings might change along the way. Some of those early guitar parts eventually stayed. What I had thought of as a prototype already contained something I wanted to preserve.",
+              "*Russian Stuff* was the project’s first piece; *Burning Chrome* followed as the second song released. It now opens the album. For me, it works here as an invitation into the whole story."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover brings together the two men at a screen, a glowing geometric structure and an image of Rikki. Technology and human longing appear side by side from the very first illustration. Blue light draws the eye into digital space, while Rikki’s face keeps the story’s personal dimension in view."
+            ]
+          }
+        ]
+      },
+      "lyrics": "The night was warm and tender as we started burning chrome when we were\nsittin neath the rooftop of BobbyQuines home,\nI knew every chip in bobbys matrix simulator\nand were gonna break her E.I.S. walls sooner or later\nas I entered the deck I saw the matrix arising with (the) apearence of a 3D chess\nit was a kick-and -rush story made for automatic Jack, a Bobby Quine combination our\nspecial double pack a simple cyberspace journey started easy and it ends in a mess\nWe like mimetic weapons, russian software hacking tools and as we\nheaded chrom - es database exited like fools,\nthe shadows left our pyramide pretending to be\na part of Eastern Seaboard Fission Authority\nI‘m Automatic Jack, an educated Cyber_Crack - and the matrix is our specialtity\ncontaining towers and fields - in a simulated world, lots of invisible walls for the protection of data. Not sufficient enough (to) achieve security from Bobby and me.\nWe‘re good in our job, - but the big deal didnt come. A perfect\nteam in hacking systems and the matrix‘s our gun.\nI got - good connection to all the hardware dealers\nBobby was a virtuos hacker (but) dedicated to the girls\nhis bar (was) the Gentle(man) looser, where he liked to relax in just sitting near the entrance desk\nthen Rikki was the one he figured out to become - - his good-luck-charm, his joker, (and) as we\nkept going on: that simple cyberspace journey started easy and it ends in a mess",
+      "sourceSheet": "Burnung Chrome Lyrics"
+    },
+    {
+      "number": 2,
+      "slug": "rikki-wildside",
+      "title": "Rikki Wildside",
+      "cover": "covers/02.jpg",
+      "audio": "audio/02.mp3",
+      "duration": "3:06",
+      "sections": {
+        "de": [
+          {
+            "heading": "Ein eigener Blick auf die Zukunft",
+            "paragraphs": [
+              "Als Bobby Rikki eines Nachts ins Loft mitbringt, arbeitet Jack noch an seiner Werkbank. Rikki schaut ihm zu. Die technischen Geräte und sein mechanischer Arm wecken ihre Neugier. Zwischen ihnen entsteht ein erster, unscheinbarer Kontakt: Sie zeigt ihm ihr kleines Simstim-Gerät, dessen Kassettenklappe repariert werden muss.",
+              "Für Bobby bekommt ihre Ankunft eine andere Bedeutung. Er sucht in seinen Beziehungen nach Zeichen dafür, dass sich sein Glück wenden könnte. Rikki erscheint ihm als Versprechen eines Neuanfangs. Jack erkennt, wie viel Bobby in sie hineinliest – und merkt zugleich, dass sie ihm selbst etwas bedeutet.",
+              "Dabei hat Rikki eigene Vorstellungen von ihrem Leben. Die Welt der Simstim-Stars zieht sie an: Menschen, deren aufgezeichnete Sinneseindrücke andere miterleben können. Sie möchte selbst in dieser Welt arbeiten. Was Bobby als gemeinsame Zukunft entwirft, muss deshalb noch lange nicht ihre Zukunft sein.",
+              "Dieses Kapitel rückt Rikki in den Mittelpunkt. Bevor der Coup die Handlung bestimmt, begegnen wir einem Menschen, dessen Wünsche sich nicht auf die Rolle in der Geschichte zweier Männer reduzieren lassen."
+            ]
+          },
+          {
+            "heading": "Ein Rhythmus, der sich immer wieder findet",
+            "paragraphs": [
+              "Bei *Rikki Wildside* wollte ich etwas ausprobieren, das für mich neu war: einen Song mit wechselnden Taktarten. Bass und Gitarre spielen Abschnitte im Fünfviertel-, Sechsviertel- und Siebenvierteltakt. Das Schlagzeug hält währenddessen an einem gleichbleibenden Rhythmus fest. Alle paar Takte treffen die Instrumente wieder zusammen.",
+              "Wer selbst keine Musik macht, muss sich darunter keine Zahlenfolge vorstellen. Beim Hören lässt es sich eher so erleben: Das Schlagzeug gibt eine beständige Bewegung vor, während sich die Phrasen von Bass und Gitarre unterschiedlich weit darüber erstrecken. Ihre Schwerpunkte verschieben sich gegeneinander, bis sie wieder aufeinandertreffen.",
+              "Dadurch ist der Rhythmus zunächst nicht so leicht zu greifen. Man spürt eine Bewegung, kann aber vielleicht nicht sofort sagen, wo das vertraute Muster liegt. Zum Refrain findet dann alles wieder in einer gewohnten Form zusammen.",
+              "Für mich war das ein Versuch, einen Song auf diese Weise aufzubauen. Die Taktwechsel muss man beim Zuhören nicht mitzählen. Entscheidend ist das Gefühl, dass die Musik kurz den sicheren Boden verlässt und ihn später wiederfindet."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover gibt Rikki Raum für einen eigenen Blick. Ihr Gesicht steht im Vordergrund; die Stadt hinter ihr bleibt Teil ihrer Umgebung. Die bernsteinbraunen Augen gehören zu diesem frühen Moment der Geschichte. Die künstlichen blauen Augen, die sie sich wünscht, liegen noch in ihrer Zukunft.",
+              "Das kühle Licht verbindet das Porträt mit der übrigen Bildserie. Ihr Ausdruck bleibt offen: Wir sehen sie, können aber nicht einfach ablesen, welchen Weg sie wählen wird."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Her Own View of the Future",
+            "paragraphs": [
+              "When Bobby brings Rikki to the loft one night, Jack is still at his workbench. Rikki watches him. The equipment and his mechanical arm catch her interest. Their first connection is a small, ordinary one: she shows him her little simstim unit, which needs its cassette cover repaired.",
+              "For Bobby, her arrival takes on a different meaning. He looks to his relationships for signs that his luck might turn. Rikki seems to promise a fresh start. Jack recognises how much Bobby projects onto her — while beginning to realise that she matters to him, too.",
+              "Rikki has ideas of her own about her life. She is drawn to the world of simstim stars: people whose recorded sensory experiences can be shared by others. She wants to work in that world herself. The future Bobby imagines for them is not necessarily the future she wants.",
+              "This chapter places Rikki at the centre. Before the heist takes over the action, we meet someone whose ambitions reach beyond her place in the lives of two men."
+            ]
+          },
+          {
+            "heading": "A Rhythm That Keeps Finding Its Way Back",
+            "paragraphs": [
+              "With *Rikki Wildside*, I wanted to try something new to me: writing a song with changing time signatures. Bass and guitar move through sections in 5/4, 6/4 and 7/4, while the drums maintain a steady rhythmic pattern. Every few bars, the instruments come together again.",
+              "You do not need to be a musician or think in numbers to follow what happens. The drums provide a consistent motion, while the bass and guitar phrases stretch across it in different lengths. Their accents shift against one another until they line up again.",
+              "This makes the rhythm a little harder to grasp at first. You can feel the movement without necessarily being able to settle into a familiar pattern straight away. By the chorus, everything comes together in a more familiar shape.",
+              "For me, this was an experiment in building a song that way. There is no need to count the changing meters as you listen. What matters is the feeling of the music briefly leaving firm ground, then finding it again."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover gives Rikki room for a gaze of her own. Her face fills the foreground, with the city behind her forming part of her surroundings. Her amber-brown eyes belong to this early moment in the story. The artificial blue eyes she longs for still lie ahead.",
+              "The cool light connects the portrait to the rest of the series. Her expression remains open: we can see her, but we cannot simply read which path she will choose."
+            ]
+          }
+        ]
+      },
+      "lyrics": "Bobby had always been in a fight - in the „Gentleman Looser“ all night,\nHe liked to be surrounded by women and should be grateful that they keep him in\nOne day I was working later at night - shaving down on a chip,\nwith my arm of and the little waldo - jacked into my stump\nBobby came home with a new girl, - tight jeans and her hair in a swirl\nand I knew I had to spend the night - in a hotel room out of sight\n\nRikki\n\nWildside was her name\nMy eyes\nHave never noticed the same kinda\nwoman around him before\nAnd Bobby knew deep down in his core\nshe’s the one that he’d been looking for\n\nNow I see her, when I’m trying to sleep- Waving goodbye far away on a leap\nfar away, their friendship broke - outside of this sprawl of cities and smoke\nI looked at her unclipping the waldo - recognized her interest in cyber tech\nShe observed me when I put my arm back on and she asked me to fix her simstim deck\nI hope, that Bobby would start into a great future together with her, - no crap\nWe’d be striking it rich any night now, so I went out in the streets and waved for a cab\n\nRikki\nWildside was her name\nMy eyes\nHave never noticed the same kinda\nwoman around him before\nAnd Bobby knew deep down in his core\nshe’s the one that he’d been looking for",
+      "sourceSheet": "Rikki Wildside Lyrics"
+    },
+    {
+      "number": 3,
+      "slug": "the-gentleman-loser",
+      "title": "The Gentleman Loser",
+      "cover": "covers/03.jpg",
+      "audio": "audio/03.mp3",
+      "duration": "2:44",
+      "sections": {
+        "de": [
+          {
+            "heading": "Warten auf die nächste Chance",
+            "paragraphs": [
+              "Im Gentleman Loser treffen sich die Console-Cowboys. Hier kennt man die Fähigkeiten der anderen, beobachtet, wer noch gefragt ist, und hört, wer langsam den Anschluss verliert. Für Bobby und Jack gehört die Bar zu einer Welt, in der Können allein keine Sicherheit bietet. Der nächste Auftrag kann Geld bringen; ein Fehler kann alles kosten.",
+              "Bobby verbringt dort immer mehr Zeit. Er sitzt nahe den offenen Türen und beobachtet die vorbeiziehenden Gesichter. Obwohl er sein Handwerk beherrscht, ist der große Erfolg bisher ausgeblieben. In der Szene beginnt man daran zu zweifeln, ob er noch so gut ist wie früher.",
+              "Sein Warten hat deshalb etwas Dringliches. Bobby sucht einen Anlass, wieder an seine Zukunft zu glauben. Als Rikki in sein Leben tritt, sieht er in ihr ein Zeichen dafür, dass sein Glück zurückkehren könnte. Jack beobachtet diese Hoffnung mit wachsendem Unbehagen. Er kennt seinen Partner gut genug, um zu merken, wie aus einer Begegnung eine Erwartung wird, die Rikki kaum erfüllen kann.",
+              "Der Name der Bar klingt dabei wie ein leiser Kommentar: *The Gentleman Loser*. Hinter dem selbstbewussten Auftreten der Gäste steht die Möglichkeit des Scheiterns. Für dieses Kapitel wird die Bar zum Ort des Wartens – zwischen vergangenen Gelegenheiten und einer Zukunft, die noch niemand kennt."
+            ]
+          },
+          {
+            "heading": "Raum für die Gitarre",
+            "paragraphs": [
+              "Bei *The Gentleman Loser* hatte ich die Musik der frühen Achtzigerjahre im Ohr: melodiöse Songs, in denen die Gitarre Zeit bekommt, eine eigene Geschichte zu erzählen. Mich reizten diese ausgedehnten Solopassagen, die eine Stimmung aufnehmen und weitertragen.",
+              "Diese Erinnerung war ein Ausgangspunkt beim Schreiben. Ich wollte der Gitarre Raum geben und ausprobieren, wie sich eine längere melodische Passage in meinen eigenen Song einfügen lässt."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover führt Bobby, Rikki und Jack im selben Raum zusammen. Ihre Nähe macht sie als Gruppe sichtbar, während ihre unterschiedlichen Blickrichtungen Abstand lassen. Jeder bringt etwas anderes in diese Begegnung mit.",
+              "Das blaue Licht der Bar und die warmen Lichtpunkte geben der Szene einen vertrauten Rahmen. Hier wird gesprochen, beobachtet und gehofft. Der gefährliche Plan, der später alles verändern soll, liegt noch vor ihnen."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Waiting for the Next Chance",
+            "paragraphs": [
+              "The Gentleman Loser is where console cowboys meet. People know one another’s skills, watch who is still in demand and hear who is beginning to lose their edge. For Bobby and Jack, the bar belongs to a world where ability alone offers little security. The next job might bring money; one mistake might cost everything.",
+              "Bobby spends more and more time there. He sits near the open doors, watching faces pass by. Despite his skills, the big score has never quite materialised. People in the scene are beginning to wonder whether he is still as good as he used to be.",
+              "His waiting carries a sense of urgency. Bobby is looking for a reason to believe in his future again. When Rikki enters his life, he sees her as a sign that his luck might return. Jack watches this hope with growing unease. He knows his partner well enough to recognise an encounter turning into an expectation that Rikki can hardly be asked to fulfil.",
+              "The bar’s name sounds like a quiet comment on all of this: *The Gentleman Loser*. Behind the patrons’ confidence lies the possibility of failure. In this chapter, the bar becomes a place of waiting, somewhere between past opportunities and a future no one yet knows."
+            ]
+          },
+          {
+            "heading": "Room for the Guitar",
+            "paragraphs": [
+              "For *The Gentleman Loser*, I had the music of the early eighties in mind: melodic songs that give the guitar time to tell a story of its own. I was drawn to those extended solo passages that pick up a mood and carry it further.",
+              "That memory gave me a starting point for writing. I wanted to give the guitar room and explore how a longer melodic passage could find its place in my own song."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover brings Bobby, Rikki and Jack into the same room. Their closeness establishes them as a group, while their different lines of sight leave a sense of distance. Each brings something different to the encounter.",
+              "The bar’s blue light and warmer points of illumination give the scene a familiar setting. This is a place for talking, watching and hoping. The dangerous plan that will change their lives still lies ahead."
+            ]
+          }
+        ]
+      },
+      "lyrics": "Bobby called her Rikki Wildside - for those days in the hall\nIt must have seemed to her - that she had it all\nThe whole teeming show - spread out for her to be on\nSharp and bright - under the neon\n\nShe was new on the scene - all the kids start to growl\nAnd she had all the miles of malls - and plazas to prowl\nAll the shops and clubs - and Bobby to explain\nThe tricky wiring, all the players - all their names and their games\n\nBobby Quine versus fortune, versus time ,what he’d ignore\nI’d known him for a long time, since the end of the war,\nI knew he used the women as counters in a game\ncalibrated in risk and - adrenaline\n\n„What happened to your arm?“ - She asked me one night\n„( Hang-)Gliding accident - under a parafoil flight“\nHave been a trooper in that war - a kind of stargazer\nWhen some asshole burned - my arm o ff with a laser",
+      "sourceSheet": "The Gentleman Loser Lyrics"
+    },
+    {
+      "number": 4,
+      "slug": "russian-stuff",
+      "title": "Russian Stuff",
+      "cover": "covers/04.jpg",
+      "audio": "audio/04.mp3",
+      "duration": "3:12",
+      "sections": {
+        "de": [
+          {
+            "heading": "Ein Fund mit Folgen",
+            "paragraphs": [
+              "Jack fährt nach New York, um sich nach Software umzusehen, die den beiden einen Vorteil verschaffen könnte. Bei Finn, zwischen ausrangierter Technik und zweifelhafter Ware, stößt er auf ein russisches Programm. Sein unscheinbares Gehäuse verrät wenig darüber, was darin steckt.",
+              "Für Jack gehört es zum Handwerk, solche Dinge aufzuspüren und ihren Wert einzuschätzen. Doch dieser Fund eröffnet eine Möglichkeit, deren Tragweite erst später deutlich wird. Das Programm kann Schutzsysteme angreifen, an denen Bobby und Jack aus eigener Kraft scheitern würden. Damit rückt auch ein gefährlicheres Ziel in Reichweite.",
+              "Noch ist der Einbruch kein beschlossener Plan. Zunächst gibt es diesen Gegenstand, Jacks Neugier und die Frage, was sich damit anfangen lässt. Aus einer Einkaufstour wird eine Voraussetzung für alles, was folgt."
+            ]
+          },
+          {
+            "heading": "Vom Bauplan zur gemeinsamen Aufnahme",
+            "paragraphs": [
+              "*Russian Stuff* war der erste Song des Projekts. Mit Marko, dem damaligen Schlagzeuger von Kick the Wall, machte ich mir zunächst viele Gedanken über den Aufbau. Wir mochten beide The Prodigy und nahmen deren Album *The Fat of the Land* als Anregung, besonders für die Drum-Parts. In den Strophen sollte das Schlagzeug klassisch klingen, im Refrain durch elektronische Elemente ergänzt werden. Auch für Bass, Gitarre und Synthesizer entwickelten wir eigene Konzepte.",
+              "Ich war damals Konstrukteur im Baumaschinenbau. Dieses Denken in Strukturen fand sich auch in meiner Musik wieder: Vieles war im Voraus geplant, wenig entstand spontan.",
+              "Nachdem Marko das Projekt verlassen hatte, kam Tobias dazu. Ich kannte ihn als Gitarrenlehrer meines Sohnes und Keyboardlehrer meiner Tochter. Als ich erfuhr, dass er auch Schlagzeug spielte, fragte ich ihn, ob er mitmachen wollte. Die Aufnahmen entstanden in meinem Wohnzimmer mit einem Roland TD-17. Grundlage war ein Guide-Track, den ich am Computer vorbereitet und selbst eingesungen hatte.",
+              "Harmonisch ist das Stück bewusst sparsam. Es baut im Wesentlichen auf einem Akkord auf; die einzelnen Teile formen sich darüber nach und nach zum Song. Die Idee zu dieser Reduktion kam mir durch Bob Dylans *Ballad of Hollis Brown*.",
+              "Den Bass spielte ich anfangs selbst. Später übernahm Florian die Bassspuren. Vor der Albumveröffentlichung überarbeiteten Tobias, Florian und ich *Russian Stuff* noch einmal gemeinsam. In einer aufgenommenen Jam-Session suchten wir nach einem neuen Zusammenspiel von Bass und Schlagzeug. Das Ergebnis gefiel uns so gut, dass wir es in dieser Form behielten.",
+              "So führte der Weg bei diesem Song von einem genauen Bauplan zu einer Fassung, die im gemeinsamen Spielen entstand."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover zeigt Jack bei Finn. Zwischen alter Elektronik und den Dingen auf dem Tresen wird ein kleines schwarzes Modul zum Mittelpunkt. Jacks mechanische Hand verbindet die technische Welt der Geschichte mit seiner eigenen körperlichen Erfahrung. Was hier beinahe beiläufig den Besitzer wechselt, wird später entscheidend sein."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "A Find with Consequences",
+            "paragraphs": [
+              "Jack travels to New York to look for software that might give the pair an advantage. At the Finn’s, among discarded technology and goods of uncertain origin, he comes across a Russian program. Its unassuming casing gives little indication of what it contains.",
+              "Finding things like this and judging their value is part of Jack’s trade. But this discovery opens up a possibility whose full significance will only become clear later. The program can attack defences that Bobby and Jack could not overcome on their own. A more dangerous target comes within reach.",
+              "The break-in is not yet a settled plan. For now, there is the object, Jack’s curiosity and the question of what they might do with it. A shopping trip provides a necessary part of everything that follows."
+            ]
+          },
+          {
+            "heading": "From a Blueprint to Playing Together",
+            "paragraphs": [
+              "*Russian Stuff* was the project’s first song. Marko, Kick the Wall’s drummer at the time, and I began by thinking carefully about its structure. We both liked The Prodigy and used their album *The Fat of the Land* as a starting point, particularly for the drum parts. The verses were to have a conventional drum sound, with electronic elements added in the chorus. We also developed individual concepts for bass, guitar and synthesizers.",
+              "At the time, I worked as a design engineer in construction machinery. That structural way of thinking found its way into my music: much was planned in advance, with little left to spontaneity.",
+              "After Marko left the project, Tobias joined. I knew him as my son’s guitar teacher and my daughter’s keyboard teacher. When I learned that he also played drums, I asked whether he would like to take part. We recorded in my living room using a Roland TD-17, working from a guide track I had prepared on the computer and sung myself.",
+              "Harmonically, the piece is deliberately spare. It is built essentially around one chord, with the individual parts gradually forming the song above it. Bob Dylan’s *Ballad of Hollis Brown* gave me the idea for that pared-back approach.",
+              "I initially played the bass myself. Florian later took over the bass parts. Before the album’s release, Tobias, Florian and I revisited *Russian Stuff* together. In a recorded jam session, we explored a new interplay between bass and drums. We liked the result so much that we kept it in that form.",
+              "For this song, the journey led from a detailed blueprint to a version shaped by playing together."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover shows Jack at the Finn’s. Among old electronics and objects on the counter, a small black module becomes the focal point. Jack’s mechanical hand connects the story’s technological world with his own physical experience. Something changing hands almost casually here will later prove decisive."
+            ]
+          }
+        ]
+      },
+      "lyrics": "(Yoh)\nto check the market I went to NewYork\nto know what‘s up, gotta see see what‘s up,\nfor the cracking tool I had to face a stop\nthe Suomi man got a an amazing shop\n„Metro Holografix“\n\ndead flies - covered with dust\nuseless stuff all over the floor\nnameless scrap behind each door\nfull of girls magazines\nand n - geographics\n\nwhat I need and I can‘t get enough\nis a shot of that russian stuff\n\nhe looked quite strange, - - like a\nDNA recombination project\n„need a gun? lucky you, I\ngot a Smith & Wesson 4 0 8 - - tactical\na xenon projcector neath the shotgun barrel\nreal voodoo in a night fight“\n\nwhat I need and I can‘t get enough\nis a shot of that russian stuff\n\n„need no gun, see a\ncracking tool would also run“\n(he)\ngot some new shit from that\nJersey kids\nseemed to be a military gadged\nseemed to be of russian origin\nseemed to be the steering tool\nfor the waste lines\nof a Lenigrad bonlieu\n\nI need it\nI bought it",
+      "sourceSheet": "Russian Stuff Lyrics"
+    },
+    {
+      "number": 5,
+      "slug": "part-of-the-game",
+      "title": "Part Of The Game",
+      "cover": "covers/05.jpg",
+      "audio": "audio/05.mp3",
+      "duration": "2:28",
+      "sections": {
+        "de": [
+          {
+            "heading": "Die Gefahr bekommt einen Namen",
+            "paragraphs": [
+              "Zurück im Loft untersucht Jack das Programm, das er bei Finn gekauft hat. Erst nach Stunden erschließt sich ihm, was er mitgebracht hat: ein militärisches Angriffsprogramm, dessen Möglichkeiten weit über ihre gewöhnlichen Aufträge hinausgehen. Mit dem Fund wächst auch sein Unbehagen. Jack besitzt etwas, dessen Wert er erkennt, ohne schon zu wissen, wie er damit umgehen soll.",
+              "Als Bobby gegen Morgen zurückkommt, ruft er ein Muster auf dem Bildschirm auf. Es zeigt die digitalen Schutzanlagen eines fremden Systems. Jack hat diese Darstellung bereits gesehen. Jetzt erfährt er, wem sie gehört: Chrome.",
+              "Damit bekommt das Risiko einen Namen. Chrome verfügt über Geld, Macht und Verbindungen, denen die beiden bisher bewusst aus dem Weg gegangen sind. Bobby sieht in ihren Schutzanlagen eine Aufgabe, die er lösen kann. Jack denkt an das, was geschieht, wenn sie entdeckt werden.",
+              "Zwischen ihnen stehen nun zwei Entdeckungen: Bobby hat ein Ziel gefunden, Jack ein Werkzeug, das einen Angriff möglich machen könnte. Zusammen ergeben sie die Aussicht auf den großen Coup. Für Jack ist damit noch nichts entschieden. Er muss sich fragen, ob er seinem Partner folgen will – und wie viel von Bobbys Entschlossenheit auf Können beruht, wie viel auf Hoffnung."
+            ]
+          },
+          {
+            "heading": "Wenn Musik und Worte dasselbe fühlen",
+            "paragraphs": [
+              "Bei *Part Of The Game* habe ich zum ersten Mal bewusst versucht, die Stimmung des Textes auch mit der Melodie auszudrücken. Im Laufe der Arbeit am Album wurde mir immer deutlicher, dass die Emotion eines Songs nicht allein in seinen Worten steckt. Auch die Musik kann erzählen, wie sich eine Situation anfühlt.",
+              "Einen Anstoß gab mir ein Songwriting-Kurs bei Pat Pattison, den ich während dieser Zeit belegte. Dort lernte ich den Begriff Prosodie kennen: Text, Melodie, Rhythmus und Phrasierung sollen gemeinsam die Aussage eines Songs tragen. Einfach gesagt: Was die Worte erzählen, soll auch in der Musik spürbar werden.",
+              "Das wollte ich hier ausprobieren. Ich habe beim Schreiben darauf geachtet, ob die Melodie die Stimmung des Textes aufnimmt und unterstützt. Für mich war das ein neuer, bewussterer Blick auf das Zusammenspiel von Musik und Sprache. Bei späteren Songs habe ich diesen Gedanken wieder aufgegriffen."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover hält die Spannung am Bildschirm fest. Bobby konzentriert sich auf die digitalen Muster, Jack steht neben ihm. Das Licht des Monitors macht den Plan sichtbar, während die Folgen noch außerhalb des Bildes liegen.",
+              "Die beiden teilen einen Arbeitsplatz und eine lange Partnerschaft. Trotzdem betrachten sie in diesem Moment dasselbe Ziel mit unterschiedlichen Erwartungen. Genau dieser Abstand gibt der Szene ihre Unruhe."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "The Danger Gets a Name",
+            "paragraphs": [
+              "Back at the loft, Jack examines the program he bought from the Finn. Only after hours of work does he begin to understand what he has brought home: a military attack program with capabilities far beyond their usual jobs. The discovery leaves him uneasy. He recognises its value without yet knowing what to do with it.",
+              "When Bobby returns towards dawn, he brings up a pattern on the screen. It represents another system’s digital defences. Jack has seen the display before. Now he learns who it belongs to: Chrome.",
+              "The risk has a name. Chrome has money, power and connections the two men have deliberately avoided until now. Bobby sees her defences as a problem he can solve. Jack thinks about what will happen if they are discovered.",
+              "Two discoveries now stand between them: Bobby has found a target, and Jack has found a tool that might make an attack possible. Together, they offer the prospect of the big score. For Jack, nothing is settled yet. He must decide whether to follow his partner — and how much of Bobby’s determination rests on skill, how much on hope."
+            ]
+          },
+          {
+            "heading": "When Music and Words Share a Feeling",
+            "paragraphs": [
+              "With *Part Of The Game*, I made my first deliberate attempt to express the mood of the lyrics through the melody as well. As I worked on the album, I became increasingly aware that a song’s emotion does not live in its words alone. The music can also convey how a situation feels.",
+              "A songwriting course I took with Pat Pattison during that period gave me a starting point. It introduced me to the idea of prosody: lyrics, melody, rhythm and phrasing working together to support a song’s meaning. Put simply, you should be able to feel in the music what the words are saying.",
+              "That was what I wanted to explore here. While writing, I paid attention to whether the melody reflected and supported the mood of the lyrics. For me, it was a new, more conscious way of looking at the relationship between music and language. I returned to that idea in later songs."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover captures the tension around the screen. Bobby concentrates on the digital patterns, with Jack standing beside him. The monitor’s light makes the plan visible, while its consequences remain outside the frame.",
+              "The two men share a workspace and a long partnership. Yet at this moment, they look at the same target with different expectations. That distance gives the scene its unease."
+            ]
+          }
+        ]
+      },
+      "lyrics": "It was late. afternoon, when I got home\nI ran a tool check and started burning Chrome\nI initialized some traffic into her backbone\nThen the Russian prog could do its job alone\n\nThen it took me eight hours to crack,\n\nAnd while Cyrillic patterns were reeling down the screen\nTwisting into English caused by the machine\n\nI felt like a punk, who’d gone out\nto buy a switchblade and expects a blowout.\nthen comes home with an H-bomb sprout\nBut you can’t win a streetfight with an H-bomb, no doubt\n\nIt was dawn, when Bobby came home\nI’d fallen asleep, and the prog has worked alone\nBobby punched a function key, I watched the screen blear-eyed\n“Whose is it?” I asked and „Chrome’s“ he replied\n\nSeams that I locked on her a triple-blind system\n\nthat all took me eight hours to crack,\n\nMy sleep was broken by visions dread\nWe were good as dead and „Why her Bobby?“ I said\n\nI felt like a punk, who’d gone out\nto buy a switchblade and expects a blowout.\nthen comes home with an H-bomb sprout\nBut you can’t win a streetfight with an H-bomb, no doubt",
+      "sourceSheet": "Part of the Game - Lyrics"
+    },
+    {
+      "number": 6,
+      "slug": "the-house-of-blue-lights",
+      "title": "The House Of Blue Lights",
+      "cover": "covers/06.jpg",
+      "audio": "audio/06.mp3",
+      "duration": "2:50",
+      "sections": {
+        "de": [
+          {
+            "heading": "Hinter dem blauen Licht",
+            "paragraphs": [
+              "Hinter dem Ziel auf Bobbys Bildschirm steht Chrome. Ihr jugendliches Aussehen täuscht über ihre Stellung hinweg. Sie gehört zu einem kriminellen Netzwerk, verfügt über beträchtliche Mittel und gilt als gefährliche Gegnerin. Jack weiß, dass ein Angriff auf ihr Vermögen Folgen haben kann, die weit über einen misslungenen Computerzugriff hinausgehen.",
+              "Zum Zentrum ihrer Geschäfte gehört das House of Blue Lights. Dort wird sexuelle Dienstleistung technisch organisiert: Die Beschäftigten werden in einen schlafähnlichen Zustand versetzt, während ihre Körper auf die Kunden reagieren. Das Bewusstsein wird vom Geschehen weitgehend abgekoppelt. Menschliche Nähe wird zu einer käuflichen Leistung, bei der die Empfindungen der Beteiligten nicht zusammenfinden müssen.",
+              "Für Jack ist dieser Ort mit einer schmerzhaften Erinnerung verbunden. Nach einer gescheiterten Beziehung hat er dort selbst Nähe gesucht. Zurück blieb ein Gefühl der Einsamkeit, das sich durch den Besuch nicht auflösen ließ.",
+              "Damit erhält das geplante Unternehmen eine weitere Bedeutung. Die Zahlen und Schutzmuster auf dem Monitor gehören zu einem Geschäft, das in das Leben von Menschen eingreift. Bobby richtet seinen Blick auf den möglichen Gewinn. Jack kennt bereits etwas von dem, was hinter diesem Geld steht."
+            ]
+          },
+          {
+            "heading": "Eine Idee als Ausgangspunkt",
+            "paragraphs": [
+              "Ganz am Anfang hatte ich mir für jeden Song musikalische Ideen zurechtgelegt. Bei *The House Of Blue Lights* war es Rage Against the Machine. Ich mochte Tom Morellos Gitarrenspiel schon lange, und seine Licks machten mir Lust, selbst einmal etwas in dieser Richtung auszuprobieren.",
+              "Beim Schreiben entwickelte sich der Song dann anders. Die ursprüngliche Idee blieb ein Anstoß, ohne den Stil des fertigen Stücks festzulegen. Viele meiner frühen Überlegungen habe ich später gar nicht mehr bewusst aufgegriffen.",
+              "Diese Erfahrung kenne ich auch von anderen Musikern, die Songs schreiben: Man beginnt mit etwas, das einen begeistert, und im Laufe der Arbeit entsteht daraus etwas Eigenes. Am Ende kann das Ergebnis weit von seiner ersten Inspiration entfernt sein. Bei diesem Stück waren es die Gitarrenideen, die mich in Bewegung gebracht haben; wohin der Song führte, ergab sich unterwegs."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover zeigt den Eingang als leuchtende Fassade. Blaues Licht und warme Akzente ziehen den Blick an; die beiden Männer bleiben davor stehen. Das Bild hält den Moment an der Schwelle fest. Was der Ort verspricht und was er tatsächlich bedeutet, lässt sich von außen nicht gleichermaßen erkennen.",
+              "So verbindet sich das Lichtmotiv der Serie hier mit einer Frage: Welche Art von Nähe lässt sich herstellen, wenn die Menschen dabei voneinander getrennt bleiben?"
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Behind the Blue Light",
+            "paragraphs": [
+              "Behind the target on Bobby’s screen stands Chrome. Her youthful appearance conceals her position. She belongs to a criminal network, controls considerable resources and is regarded as a dangerous opponent. Jack knows that attacking her wealth could have consequences far beyond a failed computer intrusion.",
+              "The House of Blue Lights is central to her business. There, sexual services are organised through technology: workers are placed in a sleep-like state while their bodies respond to customers. Their awareness is largely disconnected from what happens. Human intimacy becomes something that can be bought without the participants having to share the experience consciously.",
+              "For Jack, the place carries a painful memory. After a relationship ended, he went there seeking closeness himself. He was left with a loneliness the visit could not resolve.",
+              "The planned operation takes on another dimension. The figures and defence patterns on the monitor belong to a business that reaches into people’s lives. Bobby focuses on the possible reward. Jack already knows something of what lies behind that money."
+            ]
+          },
+          {
+            "heading": "An Idea to Start From",
+            "paragraphs": [
+              "At the very beginning, I had worked out musical ideas for each song. For *The House Of Blue Lights*, the starting point was Rage Against the Machine. I had admired Tom Morello’s guitar playing for a long time, and his licks made me want to try something in that direction myself.",
+              "As I wrote, the song developed differently. The original idea provided an impulse without determining the finished track’s style. Many of my early plans were things I never consciously returned to later.",
+              "I recognise this experience in other songwriters I know, too: you begin with something that excites you, and the work gradually takes on a character of its own. The result can end up far from its first inspiration. With this piece, the guitar ideas got me moving; where the song went emerged along the way."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover presents the entrance as a luminous facade. Blue light and warm accents draw the eye, while the two men remain outside. The image holds them at the threshold. What the place promises and what it actually means are not equally visible from the street.",
+              "Here, the series’ recurring light becomes linked to a question: what kind of closeness can be created when the people involved remain separated from one another?"
+            ]
+          }
+        ]
+      },
+      "lyrics": "Chrome, I’ve seen her in the Gentleman Loser\na dozen times or more\nMaybe she was checking the human condition,\nI bet she’d realized us before\nin the „House of blue Lights“\nA sweet little heart shaped face with the nastiest eyes you ever saw\nShe was one of the Boys, Chrome,, a member of. the local mob for sure\n„The Boys, Bobby, you seeing that? but we still have a choice“\n„We dont’ mess with the boys“, - I don’t want to fight\nShe’s controlling her rights - in the „House of blue Lights“\nThen: “My act, Jack,” Bobby said\npunching on the keyboard shaking his head\nThe neon prayer rug on the screen\nand lines weaving, hypnotic and lean,\na living mandala. in the „House of blue Lights“\nBobby kept punching, and the movement slowed;\nthe pattern resolved itself, and showed\n\nA first-class piece of work, but too close\nChromes Bankers in Zürich, where the money goes.\nWe used luck changers\nand we played real tricky\nBobby looked at me\nand said: “I’m doing it for Rikki,”\n“You know I am.”",
+      "sourceSheet": "the House of blue Lights - lyrics"
+    },
+    {
+      "number": 7,
+      "slug": "the-world-through-tally-ishams-eyes",
+      "title": "The World Through Tally Isham’s Eyes",
+      "cover": "covers/07.jpg",
+      "audio": "audio/07.mp3",
+      "duration": "2:57",
+      "sections": {
+        "de": [
+          {
+            "heading": "Die Welt durch fremde Augen",
+            "paragraphs": [
+              "Im Café betrachtet Rikki eine Broschüre ihres Lieblingsstars Tally Isham. Simstim ermöglicht es ihr, dessen aufgezeichnete Sinneseindrücke mitzuerleben: einen Flug über die Tafelberge Arizonas, einen Tauchgang oder einen Morgen auf einer griechischen Insel. Für eine Weile reicht ihre Wahrnehmung weit über den Ort hinaus, an dem sie sitzt.",
+              "Doch Rikki möchte selbst in dieser Branche arbeiten. Die teuren künstlichen Augen, die Tally trägt, stehen für sie zugleich für besseres Sehen und eine berufliche Möglichkeit. Jack nimmt diesen Wunsch ernst, auch wenn er die Risiken und Kosten sieht. Bobby stellt sich dagegen vor, dass sie nach seinem großen Coup gar nicht mehr arbeiten müsste.",
+              "Hier wird der Abstand zwischen ihren Vorstellungen deutlich. Rikki sucht eine Tätigkeit und eine Zukunft, die ihr selbst gehören. Was andere für ein erfülltes Leben halten, beantwortet ihre Frage noch nicht."
+            ]
+          },
+          {
+            "heading": "Aus Improvisationen zusammengesetzt",
+            "paragraphs": [
+              "Für diesen Song haben Tobias und ich uns in den Keller zurückgezogen und kleine Versatzstücke improvisiert. Wir haben die Ideen aufgenommen und die Teile anschließend so zusammengeschnitten, wie sie uns gefielen. Erst daraus entstand die Form des Songs.",
+              "Danach haben wir versucht, das zusammengesetzte Stück als Ganzes umzusetzen. Seine Entstehung kann man ihm noch anhören: Es gibt viele Breaks und Wechsel, die aus den unterschiedlichen improvisierten Teilen hervorgegangen sind.",
+              "So haben wir bei keinem anderen Song des Albums gearbeitet. Die meisten entstanden nach einem geplanten Arrangement. Hier war die Improvisation der Anfang; den Zusammenhang haben wir erst beim Anhören und Zusammensetzen gefunden."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover stellt Rikkis bernsteinbraune Augen den blauen Augen des Stars in der Broschüre gegenüber. Die erträumten Landschaften öffnen den engen Raum des Cafés. Rikki hält eine mögliche Zukunft in den Händen; ob sie dort ankommen wird, bleibt offen."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Seeing Through Someone Else’s Eyes",
+            "paragraphs": [
+              "In a café, Rikki studies a brochure featuring her favourite star, Tally Isham. Simstim lets her share Tally’s recorded sensory experiences: flying over Arizona’s mesas, diving or watching morning arrive on a Greek island. For a while, her perception reaches far beyond the place where she sits.",
+              "But Rikki wants to work in that industry herself. Tally’s expensive artificial eyes represent both better vision and a professional opportunity. Jack takes her ambition seriously, even as he sees the costs and risks. Bobby, meanwhile, imagines that after his big score she will never need to work again.",
+              "The distance between their expectations becomes clear. Rikki wants a career and a future of her own. Other people’s ideas of a fulfilled life do not answer that wish."
+            ]
+          },
+          {
+            "heading": "Built from Improvisation",
+            "paragraphs": [
+              "For this song, Tobias and I retreated to the basement and improvised short musical fragments. We recorded the ideas, then edited the parts together in a way we liked. The song’s form emerged from that process.",
+              "We then tried to turn the assembled piece into a complete song. You can still hear how it came about: there are many breaks and changes that grew out of the different improvised sections.",
+              "This was the only song on the album we approached that way. Most were built around a planned arrangement. Here, improvisation came first; we found the connections afterwards, by listening back and putting the pieces together."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover contrasts Rikki’s amber-brown eyes with the star’s blue eyes in the brochure. Imagined landscapes open up the café’s confined space. Rikki holds a possible future in her hands; whether she will reach it remains uncertain."
+            ]
+          }
+        ]
+      },
+      "lyrics": "In the evening I went out - and looked for Rikki,\nFound her in a Bar, well I know she’s very picky.\n\na glossy brochure.\nspread open on the table,\npictures, all marked\nwith Tally Isham’s label\n\nshe looked up to a boy\nwith Sendai eyes.\nBut she was gone\noff in a simstim disguise.\n\nThe world, - as perceived by her simstim stars.\nStimulated in her brain to cover all her scars.\nshe looked a lot like Tally, same coloring and cheek\nAnd it was still her ambition, to reach the peak\n\nTally raced a Fokker ground-effect\ncross the Arizona mesa tops.\nTally dived the Truk Island preserves,\nour eyes behold her chops\non private Greek islands,\nTally partied with the superrich\nheartbreaking purity,\nbut in fact a damn borage\nWe see the world through Tally Ishams Eyes\n\nshe wanted these Ikons.\nBrand of the famous.\ndidn’t care about the money,\nhoped, that Bobby wouldn’t blame us\n\nBobby laughed it off,\nso she talked to me about it, though.\n“How’d I look with a pair of these?”\nshe’d ask me „let me know“\n\n“Hey Rikki, you still window-shopping for eyes?”\nI asked as I sat down.\n“Tiger just got some, I think I’ll got me those too”\nshe said with a frown\n\n“Got an offer, Tiger?\nKnow an agent?” I ask politely\n“Just checking it out,”\nhe said quietly.\n“you’ leaving for Hollywood,\nthen maybe Chiba City, right?”\nCouldn’t change her mind,\nshe had been too long in that fight.\nsaid a quick goodbye to Rikki,\nbut not to me.\n\n„You know, that your optic nerves may get\ndestroyed after a while “\n„Hey Jack, no lectures“\nshe replied with a smile\n„I will reach the scene\nwith Zeiss Icons eyes\nlot of money I know\nbut Bobby will rock the show\nThen she got up and left me,",
+      "sourceSheet": "the World through Tally Ishams Eyes Lyrics"
+    },
+    {
+      "number": 8,
+      "slug": "business-bad-crazyness",
+      "title": "Business Bad Crazyness",
+      "cover": "covers/08.jpg",
+      "audio": "audio/08.mp3",
+      "duration": "2:26",
+      "sections": {
+        "de": [
+          {
+            "heading": "Sechs Wochen Vorbereitung",
+            "paragraphs": [
+              "Der Einbruch braucht mehr als ein wirksames Programm. Bobby und Jack müssen einen Weg finden, das erbeutete Geld zu bewegen und seine Herkunft zu verschleiern. Jack telefoniert von wechselnden Apparaten aus, verfolgt Kontakte und gibt immer mehr Geld für eine Suche aus, die kaum vorankommt. Schließlich vermittelt Finn den entscheidenden Kontakt nach Macao.",
+              "Sechs Wochen vergehen mit diesen Vorbereitungen. Bobby arbeitet an den Befehlen für den Zugriff auf Chromes Konto. Jack organisiert zusätzlich einen Schutz für Rikki: Miles soll sie am Abend des Einbruchs unauffällig begleiten und sie in Sicherheit bringen, falls etwas schiefgeht.",
+              "Während Bobby von ihrem gemeinsamen Leben nach dem Coup spricht, beschäftigt Jack sich mit dem möglichen Scheitern. Trotzdem macht er weiter. Seine Angst verschwindet nicht, nur weil der Plan genauer wird."
+            ]
+          },
+          {
+            "heading": "Eine Akkordfolge aus der Oper",
+            "paragraphs": [
+              "Bei *Business Bad Crazyness* war die Akkordfolge aus *Nessun dorma*, der bekannten Arie aus Giacomo Puccinis Oper *Turandot*, mein Ausgangspunkt. Hier blieb die Verbindung zur ursprünglichen Inspiration für mich auch im fertigen Song deutlicher erhalten als bei vielen anderen Stücken des Albums.",
+              "Während sich manche musikalischen Ideen beim Schreiben weit von ihrem Ausgangspunkt entfernten, blieb diese harmonische Vorlage eine Grundlage des Songs."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Telefonleitungen und Lichtpunkte verbinden die nächtliche Stadt mit dem entfernten Finanzplatz. Jack steht im Vordergrund, Bobby arbeitet im Hintergrund. Das Bild macht die vielen Verbindungen sichtbar, die für wenige entscheidende Minuten vorbereitet werden müssen."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Six Weeks of Preparation",
+            "paragraphs": [
+              "The break-in requires more than an effective program. Bobby and Jack need a way to move the stolen money and conceal its origin. Jack calls from different phones, follows contacts and spends more and more on a search that leads almost nowhere. Eventually, the Finn provides the crucial connection in Macao.",
+              "Six weeks pass in preparation. Bobby writes the commands for accessing Chrome’s account. Jack also arranges protection for Rikki: Miles will follow her discreetly on the night of the break-in and get her to safety if things go wrong.",
+              "While Bobby talks about their life together after the score, Jack prepares for possible failure. Yet he continues. His fear does not disappear as the plan becomes more precise."
+            ]
+          },
+          {
+            "heading": "A Chord Progression from Opera",
+            "paragraphs": [
+              "For *Business Bad Crazyness*, my starting point was the chord progression from *Nessun dorma*, the famous aria from Giacomo Puccini’s opera *Turandot*. To me, the connection to that original inspiration remained more apparent in the finished song than it did in many other tracks on the album.",
+              "While some musical ideas moved far from their starting points during writing, this harmonic model remained a foundation of the song."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "Phone lines and points of light connect the night-time city to a distant financial centre. Jack occupies the foreground while Bobby works behind him. The image reveals how many connections must be prepared for a few decisive minutes."
+            ]
+          }
+        ]
+      },
+      "lyrics": "All in all, it took us six more weeks\nTo set the burn up\nSix weeks of Bobby telling me how much he loved her\nI worked even harder, trying to get away from that\nMost of it was phone calls\n\nLooking for a money laundry\nStill been caught in this fuckin’ quandary\nReceived a call from the Finn, and we’ve been back in\nLong Hung in Macao, had to decide here and now\nMade my subtle approach, a tactical nuke-out\n\nMade a deal with a guy named Miles\nGuarding Rikki the night of the burn\nReady to grab her and put her on the first tube out\nIf we would fail\nBobby really hadn’t thought about that much\nHow things would go for her if we blew it\n\nWe’re going to make it, Jack\nYou know she’s my luck\nAnd she won’t never have to work again\n\nThat all is more than just need\nAnd though my heart began to bleed\nI know\nWe will succeed",
+      "sourceSheet": "Business, bad Cracyness - Lyrics New"
+    },
+    {
+      "number": 9,
+      "slug": "bodyless",
+      "title": "Bodyless",
+      "cover": "covers/09.jpg",
+      "audio": "audio/09.mp3",
+      "duration": "2:43",
+      "sections": {
+        "de": [
+          {
+            "heading": "Der Körper bleibt zurück",
+            "paragraphs": [
+              "Im Loft beginnt der Zugriff. Bobby setzt das russische Programm ein, und die Matrix entfaltet sich in Jacks Wahrnehmung. Datenverbindungen erscheinen als Raum, durch den sie sich bewegen können. Ihre Körper bleiben an der Konsole; das Gefühl der Bewegung entsteht durch die Schnittstelle.",
+              "Das Programm passt sich seiner Umgebung an und gibt sich als jeweils vorrangiger, autorisierter Zugriff aus. So bahnt es ihnen einen Weg durch das Netz. Bobby und Jack erleben diesen Vorgang als rasche Annäherung an Chromes System.",
+              "Für Jack verschieben sich die vertrauten Maßstäbe. Entfernung, Richtung und Geschwindigkeit werden zu Bildern für technische Abläufe. Er weiß, dass diese Räume eine Darstellung sind. Die Angst, die er darin empfindet, ist dennoch unmittelbar."
+            ]
+          },
+          {
+            "heading": "Die Stimme als Ausgangspunkt",
+            "paragraphs": [
+              "Bei *Bodyless* hatte ich John Lydons Stimme und seinen Vortrag bei Public Image Ltd im Kopf. Eines der Stücke, an die ich dabei dachte, war *This Is Not a Love Song*. Mich beschäftigte, wie er einen Song präsentiert – welche Wirkung allein dadurch entsteht, wie jemand die Worte singt und ihnen eine bestimmte Haltung gibt.",
+              "Das war diesmal mein Ausgangspunkt. Nachdem ich mich bei anderen Stücken mit Akkordfolgen, Gitarrenideen oder wechselnden Taktarten beschäftigt hatte, richtete sich mein Blick hier auf die Stimme. Eine Melodie und ein Text legen noch nicht alles fest. Die Art, wie man eine Zeile vorträgt, kann beeinflussen, ob sie vertraut wirkt, Abstand schafft oder eine Unruhe hinterlässt.",
+              "Lydons Vortrag diente mir dabei als Anregung für meinen eigenen Zugang. Für ein Stück mit dem Titel *Bodyless* entsteht daraus eine interessante Spannung: In der Geschichte löst sich die Wahrnehmung vom Körper, während die Stimme etwas unmittelbar Menschliches mit in diesen digitalen Raum nimmt. Sie kann den Zuhörer durch eine Umgebung führen, in der vertraute Orientierungspunkte verschwinden."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Die beiden Männer lösen sich im Cover in leuchtende Ströme und Fragmente auf. Die Stadt wird zum Datenraum. Das Motiv übersetzt die körperlose Bewegung in ein Bild, ohne den gemeinsamen Weg von Bobby und Jack aus dem Blick zu verlieren."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Leaving the Body Behind",
+            "paragraphs": [
+              "The operation begins in the loft. Bobby activates the Russian program, and the matrix unfolds in Jack’s perception. Data connections become a space they seem able to move through. Their bodies remain at the console; the interface creates the sensation of movement.",
+              "The program adapts to its surroundings, presenting itself as an authorised request with overriding priority. It clears a path through the network. Bobby and Jack experience the process as a rapid approach to Chrome’s system.",
+              "For Jack, familiar measures shift. Distance, direction and speed become images for technical operations. He knows these spaces are representations. The fear he feels inside them is immediate nevertheless."
+            ]
+          },
+          {
+            "heading": "Starting with the Voice",
+            "paragraphs": [
+              "For *Bodyless*, I had John Lydon’s voice and his delivery with Public Image Ltd in mind. One of the tracks I thought of was *This Is Not a Love Song*. What interested me was the way he presents a song: the effect created simply by how someone sings the words and gives them a particular attitude.",
+              "That became my starting point this time. After exploring chord progressions, guitar ideas and changing time signatures in other pieces, my attention here turned to the voice. A melody and a lyric do not determine everything. The way a line is delivered can make it feel familiar, create distance or leave a sense of unease.",
+              "Lydon’s delivery offered an impulse for finding my own approach. For a piece called *Bodyless*, this creates an interesting tension: in the story, perception separates from the body, while the voice carries something immediately human into that digital space. It can guide the listener through an environment in which familiar points of reference disappear."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "On the cover, the two men dissolve into luminous streams and fragments. The city becomes a landscape of data. The image gives form to disembodied movement while keeping Bobby and Jack’s shared journey in view."
+            ]
+          }
+        ]
+      },
+      "lyrics": "Bodyless, we headed Chrome’s ICE\nLike a wave rider in the open sea\nSurfing on top of an intruding prog\nLike a carpet of oil in the dark\n\nIn the matrix, we couldn’t appear on the grid\nSo we substituted ourselves by a pyramid\nBut somewhere we’ve got bodies\nFar away in Bobby’s loft\n\nSomewhere\nWe got some microseconds to escape\n\nWe pretended to have an examination\nAnd three citations\nHer ICE is perfect in protection\nAgainst official approaches\n\nWhen we entered her first door, the bulk of her data\nHas vanished behind the core wall\nAnd five data mains reported emergency\n\nOkay\nGo ahead, cowboy\nThat will be the initial step\n\nBut the virus has started to take control\nThe Russian program has grabbed\nA telephone number in Japan\nA pal of her from Tokyo\n\nOur mimetic subprograms has scanned all data\nThat has not been deleted\nWe’re in, no doubt\n\nBodyless but contagious\nAnd finally outrageous",
+      "sourceSheet": "Bodyless  - Lyrics Notes"
+    },
+    {
+      "number": 10,
+      "slug": "chromes-castle",
+      "title": "Chrome’s Castle",
+      "cover": "covers/10.jpg",
+      "audio": "audio/10.mp3",
+      "duration": "2:10",
+      "sections": {
+        "de": [
+          {
+            "heading": "Die Mauern aus Daten",
+            "paragraphs": [
+              "Chrome schützt ihr Vermögen durch digitale Abwehrsysteme. In der Matrix erscheinen diese als Barrieren, hinter denen die eigentlichen Daten verborgen liegen. Für die beiden Eindringlinge wird der Schutz zu einer Festung, die sie durchdringen müssen.",
+              "Das russische Programm beginnt, die Abwehr anzugreifen. Seine Anpassungsfähigkeit macht es zu einem mächtigen Werkzeug, doch Bobby und Jack können es nicht beliebig umschreiben oder vollständig beherrschen. Sie müssen mit einer Kraft arbeiten, deren Ablauf sie nur begrenzt steuern können.",
+              "Mit jeder überwundenen Grenze kommen sie ihrem Ziel näher. Zugleich wird wichtiger, im richtigen Moment handeln zu können. Der Weg durch Chromes Schutzanlagen ist erst ein Teil der Aufgabe; am Ende brauchen sie ein kurzes Zeitfenster für ihre eigenen Befehle."
+            ]
+          },
+          {
+            "heading": "Bass und Gitarre im Wechselspiel",
+            "paragraphs": [
+              "Bei *Chrome’s Castle* war Primus meine Inspiration, besonders das Album *Tales from the Punchbowl*. Mich hatte beeindruckt, wie eigenständig diese Musik klang. Ich hatte sonst bei keiner Band etwas Vergleichbares gehört; für mich wirkte es beinahe, als hätte Primus ein eigenes Genre geschaffen.",
+              "Besonders spannend fand ich Les Claypools Bassspiel und das Zusammenspiel mit der Gitarre. Beim Zuhören kam es mir manchmal wie ein kleines Kräftemessen vor: Zwei Instrumente behaupten ihre eigene Stimme und beziehen sich dabei ständig aufeinander. Gerade diese Reibung machte die Musik für mich interessant.",
+              "Dieses Wechselspiel nahm ich als Anregung für *Chrome’s Castle*. Mich reizte die Vorstellung, Bass und Gitarre als eigenständige Gegenüber zu betrachten, deren Begegnung einen Song mitprägen kann. Die Begeisterung für Primus gab mir einen Ausgangspunkt, von dem aus ich mit meinen eigenen musikalischen Mitteln weiterarbeiten konnte."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Eine kristalline Datenfestung füllt das Cover. Dunkle, von blauem Licht durchzogene Strukturen greifen in ihre Geometrie ein. Die kleinen Gestalten am Fuß der Anlage lassen ihre Größe spürbar werden: Bobby und Jack stehen vor einem System, das sie überragt."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Walls Made of Data",
+            "paragraphs": [
+              "Chrome protects her wealth with digital defences. In the matrix, they appear as barriers concealing the data behind them. To the intruders, that protection becomes a fortress they must penetrate.",
+              "The Russian program begins attacking the defences. Its adaptability makes it a powerful tool, but Bobby and Jack cannot freely rewrite it or control it completely. They must work with a force whose course they can only partly direct.",
+              "Each barrier crossed takes them closer to their target. Timing becomes increasingly important. Passing through Chrome’s defences is only part of the task; at the end, they need a brief window to insert commands of their own."
+            ]
+          },
+          {
+            "heading": "Bass and Guitar in Conversation",
+            "paragraphs": [
+              "For *Chrome’s Castle*, my inspiration was Primus, particularly the album *Tales from the Punchbowl*. I was struck by how individual that music sounded. I had never heard anything comparable from another band; to me, it almost seemed as though Primus had created a genre of their own.",
+              "I was especially drawn to Les Claypool’s bass playing and its interplay with the guitar. At times, listening felt like witnessing a friendly contest: two instruments asserting their own voices while constantly responding to one another. That friction was part of what made the music so interesting to me.",
+              "I took this interplay as an impulse for *Chrome’s Castle*. I liked the idea of treating bass and guitar as distinct counterparts whose encounter could help shape a song. My enthusiasm for Primus gave me a starting point from which to explore my own musical possibilities."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "A crystalline data fortress fills the cover. Dark structures threaded with blue light cut into its geometry. The small figures at its base establish the scale: Bobby and Jack face a system that towers over them."
+            ]
+          }
+        ]
+      },
+      "lyrics": "We have injected the virus, and it’s taking control\nReplicating itself in a permanent mutation\nA cybernetic gadget destroying Chrome’s defenses\n\nWe watched her castle dissolving\nSheets of shadows revolving\n\nHer ICE has then already been eaten\nBy the glitch systems that spin out from our Russian prog\nTumbling away from our central logic thrust\n\nHer castle’s fading away\nWe’ve made it more than halfway\n\nAre we already in?\nOr is the alarm ringing?\nDoes she really know?",
+      "sourceSheet": "Chrome Lyrics"
+    },
+    {
+      "number": 11,
+      "slug": "and-down",
+      "title": "And Down",
+      "cover": "covers/11.jpg",
+      "audio": "audio/11.mp3",
+      "duration": "2:15",
+      "sections": {
+        "de": [
+          {
+            "heading": "Hinter den Schutzmauern",
+            "paragraphs": [
+              "Die angegriffenen Barrieren lösen sich auf. Für Jack sieht es aus, als würden Wände mit großer Geschwindigkeit auseinandergerissen. Dahinter öffnet sich ein heller, weiter Raum: Daten stehen in farbigen Türmen, verbunden durch unzählige Linien.",
+              "Jack sieht nun eine Seite der Matrix, die reguläre Nutzer täglich vor sich haben. Für ihn als Eindringling ist dieser Blick ungewohnt. Was bisher hinter Schutzanlagen verborgen war, liegt offen vor ihnen.",
+              "Noch ist das Zentrum nicht erreicht. Ein dunkler Bereich bleibt bestehen, und ihre Bewegung führt weiter hinab. Die Helligkeit der freigelegten Daten bedeutet keine Entwarnung. Sie zeigt, wie weit sie bereits vorgedrungen sind."
+            ]
+          },
+          {
+            "heading": "Eine Erinnerung an Roskilde",
+            "paragraphs": [
+              "Für *And Down* war Crossover eine Inspirationsquelle: diese Verbindung von Rap und hartem Rock, die ich damals für mich entdeckte. Einige der Bands, die damit auch in Deutschland Erfolg hatten, konnten wir auf dem Roskilde Festival sehen. Wir fuhren zu dieser Zeit jedes Jahr dorthin.",
+              "Meine Erinnerung an diese Musik ist deshalb eng mit den Konzerten verbunden. Es waren die Auftritte, bei denen ich erleben konnte, wie sich der rhythmische Vortrag des Rap und die Kraft einer Rockband miteinander verbinden. Aus dieser Begegnung entstand eine Energie, die mich auch beim eigenen Schreiben interessierte.",
+              "Diese musikalische Erfahrung hatte ich bei *And Down* im Kopf. Die Verbindung von Sprache, Rhythmus und harten Gitarren gab mir eine Richtung für den Song. Damit fand auch die Erinnerung an die gemeinsamen Festivalbesuche ihren Weg in das Album."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Bobby und Jack fallen zwischen aufbrechenden Flächen und hohen Datenstrukturen hindurch. Die starke Tiefenperspektive übersetzt den weiteren Zugriff in einen Abstieg. Kleine rosa und blaue Lichtakzente greifen die Farben der sichtbar gewordenen Datenwelt auf."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Beyond the Defences",
+            "paragraphs": [
+              "The barriers under attack begin to fall apart. To Jack, it looks as though walls are being torn away at tremendous speed. A bright, expansive space opens beyond them: coloured towers of data linked by countless lines.",
+              "Jack now sees a side of the matrix that legitimate users encounter every day. For him as an intruder, the view is unfamiliar. What the defences had concealed lies exposed before them.",
+              "They have not yet reached the centre. A dark area remains, and their movement carries them further down. The brightness of the exposed data offers no assurance of safety. It reveals how far they have already penetrated."
+            ]
+          },
+          {
+            "heading": "A Memory of Roskilde",
+            "paragraphs": [
+              "For *And Down*, one source of inspiration was crossover: the combination of rap and hard rock that I was discovering at the time. We saw some of the bands whose music was also finding success in Germany at the Roskilde Festival. Back then, we went every year.",
+              "My memory of that music is therefore closely tied to the concerts. Those performances let me experience how rap’s rhythmic delivery could come together with the power of a rock band. The energy of that combination interested me when I came to write music myself.",
+              "I had that musical experience in mind for *And Down*. The relationship between words, rhythm and heavy guitars gave me a direction for the song. In that way, the memory of our festival visits also found its way onto the album."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "Bobby and Jack descend between breaking surfaces and towering data structures. The deep perspective turns their continued intrusion into a fall. Small pink and blue accents echo the colours of the newly exposed data world."
+            ]
+          }
+        ]
+      },
+      "lyrics": "And down into the matrix simulator\nEasy access made our rep. even greater\nICE walls flicked away in a reverse elevator\nWhile her core data tower got bigger and straighter\nWe came close to her mainframe code translator\nWhich got emerged and exposed sooner or later\n\nThe matrix’s illusion of infinite space\nIt’s like watching a tape of a prefab building\nGoing up; only the tape’s reversed\nAnd run at high speed\n\nI was trying to remind myself\nThat this place and the gulfs are just representations\nThat we were not “in” Chrome’s computer\nWe just interfaced with it\nWhile the matrix simulator in Bobby’s loft\nGenerates this illusion\n\nThis is the far side of ICE\nThe view of the matrix I’ve never seen before\nThe view that fifteen million console operators\nSee daily and take for granted\n\nThe core data tower like vertical freight trains\nColor-coded for access\nBright primaries, impossibly bright\nIn that transparent void, linked by countless horizontals\nIn nursery blues and pinks\n\nBut the ICE still shadows something at the center of it all\nThe heart of all Chrome’s expensive darkness\nThe very heart",
+      "sourceSheet": "and down - Lyrics"
+    },
+    {
+      "number": 12,
+      "slug": "and-down-reprise",
+      "title": "And Down Reprise",
+      "cover": "covers/12.jpg",
+      "audio": "audio/12.mp3",
+      "duration": "2:16",
+      "sections": {
+        "de": [
+          {
+            "heading": "Die Angst fährt mit",
+            "paragraphs": [
+              "Der Abstieg setzt sich fort. Zwischen den hellen Datentürmen erlebt Jack weite graue Räume und zerfallende Grenzen. Die Geschwindigkeit lässt ihm kaum Zeit, sich auf das vorzubereiten, was am Ende warten könnte.",
+              "Seine Gedanken kreisen um Black ICE: eine Abwehr, die über die Verbindung zum Nervensystem töten kann. Er kennt die Geschichten darüber aus dem Gentleman Loser. Während sie weiter vordringen, bekommen diese Erzählungen eine andere Nähe. Die Gefahr betrifft den Körper, der scheinbar so weit entfernt im Loft sitzt.",
+              "Die Reprise führt denselben Weg unter wachsendem Druck weiter. Jack muss handlungsfähig bleiben, obwohl er nicht weiß, ob ihre nächste Begegnung mit dem Schutzsystem die letzte sein wird."
+            ]
+          },
+          {
+            "heading": "Anregungen für den Aufbau",
+            "paragraphs": [
+              "Bei *And Down Reprise* hatte ich Musik im Kopf, die ich mit den späten Achtzigerjahren verbinde: The Jesus and Mary Chain, The Cure, Echo & the Bunnymen, die Pixies und Primal Scream. Noise-Pop und Post-Punk sind für mich Begriffe, die zu Teilen dieser musikalischen Erinnerungswelt gehören. Die Bands klangen unterschiedlich, aber jede hatte etwas, das mich beim Zuhören beschäftigte.",
+              "Für diesen Song interessierte mich besonders, wie ihre Stücke aufgebaut waren. Ich hörte darauf, wie einzelne Teile aufeinanderfolgten und wie sich daraus der Verlauf eines ganzen Songs ergab. Diese Art, Musik zu ordnen, gab mir Anregungen für mein eigenes Schreiben.",
+              "Während bei *And Down* die Erinnerung an Crossover-Konzerte den Ausgangspunkt bildete, kam die Inspiration für die Reprise aus dieser anderen Richtung. Die zusammengehörenden Kapitel der Geschichte bekamen so jeweils einen eigenen musikalischen Anstoß. Für mich war das eine weitere Gelegenheit, innerhalb des Albums verschiedene Einflüsse auszuprobieren."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Im Cover öffnet sich zwischen den beiden Männern ein dunkler Schacht. Wiederkehrende Bögen und scharfkantige Strukturen lassen die Tiefe beinahe endlos erscheinen. Das Motiv hält ihre gemeinsame Richtung fest und gibt zugleich Jacks Angst einen Raum."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "Fear Comes Along",
+            "paragraphs": [
+              "The descent continues. Between bright data towers, Jack experiences vast grey spaces and collapsing boundaries. Their speed leaves him little time to prepare for whatever may be waiting below.",
+              "His thoughts turn to Black ICE: defences capable of killing through the connection to the nervous system. He knows the stories from the Gentleman Loser. As they penetrate deeper, those stories become more immediate. The threat reaches the body that seems so far away in the loft.",
+              "The reprise continues the same journey under mounting pressure. Jack must remain able to act without knowing whether their next encounter with the defences will be their last."
+            ]
+          },
+          {
+            "heading": "Ideas for the Structure",
+            "paragraphs": [
+              "For *And Down Reprise*, I had music in mind that I associate with the late eighties: The Jesus and Mary Chain, The Cure, Echo & the Bunnymen, Pixies and Primal Scream. Noise pop and post-punk are terms that belong to parts of that musical landscape in my memory. The bands sounded different, but each had something that held my attention as a listener.",
+              "For this song, I was particularly interested in how their tracks were structured. I listened to how one section followed another and how those parts shaped the course of a complete song. That way of organising music gave me ideas for my own writing.",
+              "While *And Down* began with memories of crossover concerts, the reprise drew its inspiration from this different direction. The connected chapters of the story each received a musical starting point of their own. For me, it was another opportunity to explore different influences within the album."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "On the cover, a dark shaft opens between the two men. Repeated arches and sharp structures make its depth seem almost endless. The image holds their shared direction while giving Jack’s fear a space of its own."
+            ]
+          }
+        ]
+      },
+      "lyrics": "And down\nNow down\nNow the prog’s a roller coaster\nThrough this fraying maze of shadow walls\nWe don’t act as an imposter\nBut we’re afraid of Black ICE halls\n\nToo many times in the Gentleman Loser\nBlack ICE fills the tales of the dunce\nSome kind of neuro-feedback weapon\nAnd you connect with it only once\n\nAnd down\nNow down\nAnd we’re diving for the floor\nOf Chrome’s shadow castle\nNever done such a journey before\nAnd we don’t need no hassle\n\nTrying to brace myself for the sudden stopping of breath\nSlackening of the nerves\nAnd an anticipation that scared me to death\n\nAnd down\nNow down",
+      "sourceSheet": "and down Reprise - Lyrics V2"
+    },
+    {
+      "number": 13,
+      "slug": "the-core-of-darkness",
+      "title": "The Core Of Darkness",
+      "cover": "covers/13.jpg",
+      "audio": "audio/13.mp3",
+      "duration": "2:37",
+      "sections": {
+        "de": [
+          {
+            "heading": "Das entscheidende Zeitfenster",
+            "paragraphs": [
+              "Im Zentrum von Chromes System scheint die Bewegung für einen Moment stillzustehen. Die Abwehr zerbricht, und das russische Programm wächst durch die Daten. Bobby versucht, es lange genug zurückzuhalten, damit Jack ihre eigenen Befehle einsetzen kann.",
+              "Jetzt entscheidet sich, ob aus der Zerstörung auch der geplante Zugriff auf das Geld wird. Jack setzt das vorbereitete Befehlspaket ein. Die Übertragung gelingt, bevor das Angriffsprogramm alles überwältigt. Dann bricht die digitale Erfahrung ab, und das Loft ist wieder um sie herum.",
+              "Der Einbruch hat weniger als acht Minuten gedauert. Den Großteil von Chromes Guthaben haben sie an Wohltätigkeitsorganisationen weitergeleitet. Weniger als zehn Prozent behalten sie für sich; davon nimmt die Geldwäsche nochmals einen erheblichen Anteil. Trotzdem sind sie reich.",
+              "Die technische Aufgabe ist erfüllt. Was dieser Erfolg für ihr Leben bedeutet, muss sich erst zeigen."
+            ]
+          },
+          {
+            "heading": "Aus Freude am Spielen",
+            "paragraphs": [
+              "Bei *The Core Of Darkness* habe ich mir den Spaß erlaubt, ein Gitarrensolo aus vielen kurzen Varianten zu entwickeln. Alle paar Takte spielte ich etwas Neues, wiederholte es und probierte die nächste Idee aus. Aus diesen Fragmenten entstand am Ende ein zusammenhängendes Solo.",
+              "Mich trieb dabei vor allem die Freude am Spielen. Ich konnte einer Idee nachgehen, sie eine Weile wiederholen und dann hören, wohin die nächste führen würde. Der Zusammenhang wuchs aus den einzelnen Passagen. Ich glaube, dass man dem Song diese Spielfreude auch anhört.",
+              "Beim Bass gab es einen ähnlichen Zugang. Florian fand eine schöne Passage, die das Stück einleitet und es auch im weiteren Verlauf begleitet. So bekam die Freude am Ausprobieren von beiden Instrumenten ihren Platz im Song.",
+              "An dieser Stelle der Geschichte läuft der Einbruch auf seinen entscheidenden Moment zu. Meine Erinnerung an die musikalische Arbeit ist dagegen vor allem die an den Spaß, den wir mit unseren Instrumenten hatten."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Ein heller Impuls durchzieht das dunkle Zentrum, während transparente Splitter den Raum füllen. Bobby und Jack erscheinen klein vor diesem Vorgang. Das Cover hält den kurzen Moment fest, in dem ihr vorbereitetes Handeln und die kaum kontrollierbare Zerstörung aufeinandertreffen."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "The Decisive Window",
+            "paragraphs": [
+              "At the centre of Chrome’s system, movement seems to pause for a moment. The defences break apart, and the Russian program rises through the data. Bobby tries to restrain it long enough for Jack to insert their own commands.",
+              "This is where destruction must also become the planned transfer of money. Jack inserts the command package. The transmission succeeds before the attack program overwhelms everything. Then the digital experience collapses, and the loft surrounds them again.",
+              "The break-in has taken less than eight minutes. They have transferred most of Chrome’s balance to charities. They keep less than ten percent, with the money-laundering operation taking another substantial share of that. Even so, they are rich.",
+              "The technical task is complete. What this success means for their lives has yet to emerge."
+            ]
+          },
+          {
+            "heading": "For the Joy of Playing",
+            "paragraphs": [
+              "With *The Core Of Darkness*, I allowed myself the pleasure of developing a guitar solo from many short variations. Every few bars, I played something new, repeated it and tried the next idea. Those fragments eventually became a continuous solo.",
+              "Above all, I was driven by the enjoyment of playing. I could follow an idea, repeat it for a while and then hear where the next one might lead. The connection grew out of the individual passages. I think you can hear that enjoyment in the song.",
+              "There was a similar approach to the bass. Florian found a lovely passage that introduces the piece and accompanies it as it progresses. Both instruments gave that pleasure in exploring a place within the song.",
+              "At this point in the story, the break-in is approaching its decisive moment. My memory of making the music, meanwhile, is above all one of the fun we had playing our instruments."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "A bright pulse crosses the dark centre as translucent shards fill the space. Bobby and Jack appear small against the event. The cover holds the brief moment when their prepared action meets destruction they can barely control."
+            ]
+          }
+        ]
+      },
+      "lyrics": "At the heart of the darkness, the still center\nThe systems shredding the dark as we entered\nWhirlwinds of light spinning away\nAnd we hang in the core, so I started to pray\n\nTranslucent razors\nSpinning to the lasers\nAnd we watched the explosion\nIn extreme slow motion\n\nAs Bobby struggles in the crucial second\nI feared that all our deeds are reckoned\nThen the matrix folds around me like an origami trick\nThe Russian prog has made me sick\nAn unformed arm of shadows twitches on the screen\nI thought that I could hear Chrome’s scream\nA raw metal sound, full of hate\nBut we’ve done it, too late\n\nBobby was laughing\nTears in his eyes\nThough we’ve been understaffing\nWe managed that she dies\n\nI saw the Russian prog has melted in its slot\nWe’d finished the burn extremely hot\nThen we’d given the bulk of Chrome’s account\nTo some random charities we’ve found\nWe took less than ten percent for ourselves\nBut we didn’t feel like heroes or bright eyes elves\nThen it took an hour and our money appeared\nWe were rich now, no matter what we feared",
+      "sourceSheet": "The Core of Darkness - Lyrics"
+    },
+    {
+      "number": 14,
+      "slug": "miles-and-more",
+      "title": "Miles and More",
+      "cover": "covers/14.jpg",
+      "audio": "audio/14.mp3",
+      "duration": "2:35",
+      "sections": {
+        "de": [
+          {
+            "heading": "Ein Anruf nach dem Sieg",
+            "paragraphs": [
+              "Nach dem Einbruch klingelt das Telefon. Miles meldet sich, wie mit Jack vereinbart. Doch seine Nachricht passt nicht zu dem Erfolg, den Bobby gerade feiert: Rikki ist durch den Personaleingang des House of Blue Lights gegangen. Als das Haus plötzlich schließt und auf der Straße Unruhe ausbricht, verliert Miles sie aus den Augen.",
+              "Jack versteht nach und nach, was Rikki dort gesucht hat. Sie brauchte Geld für ihren eigenen Plan. Während die beiden Männer mit dem Einbruch beschäftigt waren, hat sie einen Weg verfolgt, von dem sie nichts wussten.",
+              "Die Vorkehrung, mit der Jack sie schützen wollte, führt ihm vor Augen, wie wenig er über ihre Entscheidungen wusste. Er geht hinaus in die Stadt. Bobby bleibt mit dem Geld und seinen Erwartungen zurück.",
+              "Nach den räumlichen Bildern des Cyberspace genügt nun eine Stimme am Telefon, um die Bedeutung des Erfolgs zu verändern."
+            ]
+          },
+          {
+            "heading": "Einfach einen Song schreiben",
+            "paragraphs": [
+              "Bei *Miles and More* muss ich nicht lange nach einer musikalischen Vorlage suchen. Es gab keine bestimmte Band, keinen anderen Song und kein Konzept, das ich ausprobieren wollte. Ich habe mich hingesetzt und einfach angefangen zu schreiben.",
+              "Was mir in den Sinn kam, habe ich aufgegriffen und zu einem Song zusammengefügt. Während ich bei vielen anderen Stücken des Albums noch sagen kann, welche Musik oder welche Idee den ersten Anstoß gab, entstand dieses Stück ganz unmittelbar aus dem Schreiben selbst.",
+              "So unterschiedlich die musikalischen Ausgangspunkte auf diesem Album waren, so unterschiedlich durften auch die Arbeitsweisen sein. Bei *Miles and More* brauchte ich keine besondere Versuchsanordnung. Ich habe einen Song geschrieben – und daraus ist dieses Stück geworden."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover verbindet Jacks Telefonat im Loft mit Miles vor dem geschlossenen Haus. Licht, Regen und die Unruhe auf der Straße tragen die Nachricht in die Szene. Rikki selbst bleibt abwesend: Jack hört von ihrem Weg, ohne sie zu sehen."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "A Call After the Victory",
+            "paragraphs": [
+              "After the break-in, the phone rings. Miles calls as arranged with Jack. But his news does not fit the success Bobby is celebrating: Rikki entered the House of Blue Lights through the staff entrance. When the establishment suddenly closes and the street erupts in confusion, Miles loses sight of her.",
+              "Jack gradually understands what brought Rikki there. She needed money for a plan of her own. While the two men were occupied with the break-in, she pursued a course they knew nothing about.",
+              "The precaution Jack took to protect her reveals how little he knew about her decisions. He goes out into the city. Bobby stays behind with the money and his expectations.",
+              "After the vast spatial images of cyberspace, a voice on the phone is enough to change the meaning of success."
+            ]
+          },
+          {
+            "heading": "Simply Writing a Song",
+            "paragraphs": [
+              "For *Miles and More*, I do not have to search my memory for a musical reference. There was no particular band, no other song and no concept I wanted to explore. I sat down and simply started writing.",
+              "I followed the ideas that came to mind and put them together into a song. With many other tracks on the album, I can still identify the music or idea that provided the first impulse. This piece grew directly out of the act of writing itself.",
+              "The album’s different musical starting points also allowed for different ways of working. *Miles and More* needed no special experiment. I wrote a song, and this was the piece that emerged."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover connects Jack’s call in the loft with Miles outside the closed establishment. Light, rain and the disturbance in the street carry the news into the scene. Rikki remains absent: Jack hears about her movements without seeing her."
+            ]
+          }
+        ]
+      },
+      "lyrics": "Then the phone rang, it was Miles\nI almost blew the code phrase when Bobby smiles\n“Hey Jack, man, I dunno, but what’s it all with Rikki?”\n“Kind of funny things here, I got to be sticky”\n\nWhen Miles observed her tight\nHe’d been close but out of sight\nThen she vanished through the night\nInto the House of Blue Lights\nShe used the side door lonely\nFor employees only\n\nI went out into the light and the neon\nLet the crowd pull me along, walking blind\nThat’s when we lost her\n\nThen all went insane\nThe House of Blue Lights gone down the drain\nBut I felt no pain, kept walking in the rain\nJust one more segment in that mass organism\nWithout a name\n\nEverybody running, no boundaries, no fence\nAnd after a while I thought it all made sense\nShe’d needed the money",
+      "sourceSheet": "MIles And More - Lyrics"
+    },
+    {
+      "number": 15,
+      "slug": "chiba-city-and-no-return",
+      "title": "Chiba City And No Return",
+      "cover": "covers/15.jpg",
+      "audio": "audio/15.mp3",
+      "duration": "8:56",
+      "sections": {
+        "de": [
+          {
+            "heading": "Ein Ticket und ein Abschied",
+            "paragraphs": [
+              "Jack findet Rikki im Café. Als sie ihre Sonnenbrille abnimmt, sieht er die neuen blauen Augen. Sie hat sich ihren Wunsch bereits erfüllt und den Preis dafür selbst aufgebracht. Nun will sie aufbrechen und versuchen, in der Simstim-Welt Arbeit zu finden.",
+              "Zunächst hat sie ein einfaches Ticket nach Hollywood. Bobby versteht ihre Entscheidung nicht. Der gemeinsame Reichtum, den er sich vorgestellt hat, gibt ihr keinen Grund zu bleiben. Jack begleitet ihren Abschied, ohne ihr sagen zu können, was sie ihm bedeutet.",
+              "Später lässt er ihren Flug nach Chiba City umbuchen, erster Klasse und mit Rückflug. Darin liegt Hilfe, aber auch die Möglichkeit einer Rückkehr, die er ihr offenhalten möchte. Sie kommt nicht zurück.",
+              "Am Ende bleibt Jacks Blick auf die Gesichter und künstlichen Augen der Stars. Sie erinnern ihn an Rikki, ohne ihm die Person zurückzugeben. Ihr weiterer Weg bleibt außerhalb seiner Erzählung."
+            ]
+          },
+          {
+            "heading": "Als ich meinen Song auf der Straße hörte",
+            "paragraphs": [
+              "*Chiba City And No Return* sollte der krönende Abschluss des Albums werden. Dabei hatte ich die langen Stücke von Guns N’ Roses auf *Use Your Illusion I* und *II* im Hinterkopf, besonders *November Rain*. Ich wollte mir für den letzten Song Raum nehmen und einen Abschluss schaffen, der etwas von dieser großen musikalischen Form aufgreift.",
+              "Auch Scotts Stimme passte für mich zu dieser Vorstellung. Er musste Axl Rose dafür nicht imitieren. Diese Art zu singen bringt er von sich aus mit; man hört sie auch auf den anderen Stücken des Albums.",
+              "Für den Klavierpart schrieb ich eine Partitur von ungefähr zwanzig Seiten. Ich bat Michi, sie einzuspielen. Wir hatten uns kennengelernt, als er ein paar Sachen aufnahm, und für mich war bald klar, was für ein begnadeter Pianist er ist. Er selbst sah sich nie so. Mich beeindruckte, wie er ins Studio kam und die Musik so spielte, wie ich sie aufgeschrieben hatte.",
+              "Eine Begegnung vor der Aufnahme ist mir besonders in Erinnerung geblieben. Ich hatte Michi die Partitur schon geschickt und ihn gebeten, zum Aufnehmen ins Studio zu kommen. Ein paar Tage vorher ging ich durch die Holtenauer Straße in Kiel. Dort steht gelegentlich ein öffentliches Klavier, an dem Passanten spielen können.",
+              "Schon von Weitem hörte ich das Intro meines Songs. Ich war vollkommen überrascht. Bis dahin hatte das Stück noch niemand gehört – wie konnte es mir plötzlich mitten auf der Straße begegnen?",
+              "Als ich näher kam, sah ich Michi am Klavier sitzen. Er übte meinen Song, umringt von Passanten. Die Musik, die ich geschrieben und ihm geschickt hatte, erklang dort einfach zwischen den Menschen auf der Straße. Noch vor unserer Studioaufnahme bekam ich sie auf eine Weise zurück, mit der ich nie gerechnet hätte. Dieser Moment ist mir geblieben."
+            ]
+          },
+          {
+            "heading": "Das Bild zum Song",
+            "paragraphs": [
+              "Das Cover übersetzt den Abschied in eine Flughafenszene. Rikki steht mit ihren neuen blauen Augen im Vordergrund, Jack bleibt auf Abstand. Der Flughafen ist eine gestalterische Verdichtung, kein wortgetreu übernommener Schauplatz ihres Abschieds. Die helle Weite hinter dem Glas gehört zu einer Zukunft, die für Rikki beginnt und für Jack unsichtbar bleibt."
+            ]
+          }
+        ],
+        "en": [
+          {
+            "heading": "A Ticket and a Goodbye",
+            "paragraphs": [
+              "Jack finds Rikki in the café. When she removes her sunglasses, he sees her new blue eyes. She has already fulfilled that wish and found the money for it herself. Now she wants to leave and try to find work in the simstim world.",
+              "At first, she has a one-way ticket to Hollywood. Bobby cannot understand her decision. The wealth he imagined sharing gives her no reason to stay. Jack sees her off without being able to tell her what she means to him.",
+              "Later, he has her flight changed to Chiba City, first class, with a return ticket. It is an act of help, carrying a possibility of coming back that he wants to keep open for her. She does not return.",
+              "At the end, Jack is left looking at the faces and artificial eyes of stars. They remind him of Rikki without bringing the person back. Her life beyond this point remains outside his account."
+            ]
+          },
+          {
+            "heading": "Hearing My Song in the Street",
+            "paragraphs": [
+              "*Chiba City And No Return* was meant to be the album’s crowning finale. I had the long Guns N’ Roses tracks on *Use Your Illusion I* and *II* in mind, particularly *November Rain*. I wanted to give the final song room and create an ending that drew something from that expansive musical form.",
+              "Scott’s voice also fitted that idea for me. He did not have to imitate Axl Rose. That way of singing comes naturally to him; you can hear it elsewhere on the album, too.",
+              "For the piano part, I wrote a score of around twenty pages and asked Michi to play it. We had met when he recorded some material, and I soon realised what a gifted pianist he was. He never saw himself that way. I was impressed by how he came into the studio and played the music just as I had written it.",
+              "One encounter before the recording has stayed with me particularly clearly. I had already sent Michi the score and asked him to come to the studio to record it. A few days beforehand, I was walking along Holtenauer Straße in Kiel. A public piano is sometimes placed there for passers-by to play.",
+              "From a distance, I heard the introduction to my song. I was astonished. Until then, nobody had heard the piece — how could I suddenly be hearing it in the middle of the street?",
+              "As I approached, I saw Michi sitting at the piano. He was practising my song, surrounded by passers-by. The music I had written and sent him was sounding out among people in the street. Before our studio recording, it came back to me in a way I could never have expected. That moment has stayed with me."
+            ]
+          },
+          {
+            "heading": "The Image Behind the Song",
+            "paragraphs": [
+              "The cover translates the farewell into an airport scene. Rikki and her new blue eyes occupy the foreground; Jack remains at a distance. The airport is a visual interpretation rather than the literal setting of their goodbye. The bright expanse beyond the glass belongs to a future beginning for Rikki that Jack will not see."
+            ]
+          }
+        ]
+      },
+      "lyrics": "Finally I remembered the café\nWhere I’d met her with Tiger that day\n“Hi, Rikki,” I said, and I was ready\nWhen she took the sunglasses off, quite steady\nBlue, Tally Isham blue, she thought that was funny\n“They’re beautiful,” I said. “You made some money?”\nThen she shivered. “But I won’t make any more\nNot that way.” “I think that place has closed the door”\n\n“I’ve got a one-way ticket to Hollywood\nTiger knows some people I can stay for good\nMaybe I’ll even get to Chiba City”\nThen she packed her bags, looking gritty\n\nWell, I thought about her day and night\nHoped that Bobby gets it right\nAnd I tried so hard to keep her bright\nNot to imagine she was working tight\nIn the House of Blue Lights\nWorking in shifts all these nights\nShe was one of the shadows of the night\nPermanently lost in a fight\nI hope her mind has been off in deep light\n\nWhile her body and a bundle of conditioned reflexes\nTook care of the business\nHer mind has been out of access\nThat all didn’t matter\nBobby’d been waiting for her\n\nBobby was slumped in a chair in the hall\nLooking at his string of zeros\nHe’d been in the Gentleman Loser by nightfall\nChecking how our new life would be as heroes\nHe’d always be waiting for that next card to fall\nBut this night he forgot about it all\nHe was missing Rikki and I told him to be patient\nBut honestly, I knew she’s no longer adjacent\n\nFor Bobby I wanted to tell her not to hurt him\nShe’d served her purpose, deflect from being scratched\nI thought that I’d better try to divert him\n’Cause finally she had a plane to catch\n\nI picked up the phone, and I called the airline\nGave them her real name with her flight number combined\nShe’d been changing that to Chiba City, Japan\nI thumbed my credit card in the slot\nMade it first class and a return ticket she’d got\nBut I guess she cashed the return fare, or else didn’t need\n’Cause she hasn’t come back, and that made my heart bleed\n\nI went out in the streets, tried to forget her\nThough she never said goodbye, I thought I’d better let her\nBut sometimes I see her far out on the edge\nOf all this sprawl of cities and nights\nBefore she reached the ledge\nAnd then she waves goodbye",
+      "sourceSheet": "Chiba City and no Return - Lyrics V4"
+    }
+  ],
+  "albumUrl": "https://soundcloud.com/user-720035982/sets/the-burning-chrome-symphony-dreamscape"
+}
